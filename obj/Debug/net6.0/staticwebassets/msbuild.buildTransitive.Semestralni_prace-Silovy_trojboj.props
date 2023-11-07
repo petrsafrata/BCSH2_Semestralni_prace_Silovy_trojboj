@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Semestralni_prace-Silovy_trojboj.props" />
+</Project>
