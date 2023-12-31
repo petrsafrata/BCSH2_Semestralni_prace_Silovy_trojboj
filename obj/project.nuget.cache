@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5O/xgBjAZbUECBFrAwsLpG6ih4bEhRwnIY0wiZIPL/TQOBx/XwWFpPhfkwy/JZm1sxqV+1MRLbqY/bVE19sfg==",
+  "dgSpecHash": "vCzuvKZ+B7UwK+6obGjPpEY4iHs/Ec+pV+c3jOLdKitEcJpjo19n8+YaJ+liMxINPIfcTO/c7IGPiIT3TWTUdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petr\\source\\repos\\Semestralni_prace-Silovy_trojboj\\Semestralni_prace-Silovy_trojboj.csproj",
+  "projectFilePath": "C:\\Users\\Petr\\source\\repos\\BCSH2_Semestralni_prace_Silovy_trojboj\\Semestralni_prace-Silovy_trojboj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Petr\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Petr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

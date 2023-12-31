@@ -1,0 +1,36 @@
+﻿@model List<Discipline>
+
+<h1>Total results</h1>
+
+<form asp-controller="" asp-action="Index">
+    <p>
+        Discipline Name: <input type="text" name="disciplineName" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+@foreach (var discipline in Model)
+{
+    <h2>@discipline.Name</h2>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Competitor</th>
+                <th>Category</th>
+                <th>Score</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var result in discipline.Results)
+            {
+                <tr>
+                    <td>@result.Competitor.CompetitorFirstName @result.Competitor.CompetitorLastName</td>
+                    <td>@result.Competitor.Category.Name</td>
+                    <td>@result.Score</td>
+                    <td><a href="@Url.Action("Edit", new { id = result.ResultId })">Edit result</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

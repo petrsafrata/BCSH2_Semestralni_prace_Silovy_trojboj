@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petr\\source\\repos\\Semestralni_prace-Silovy_trojboj\\Semestralni_prace-Silovy_trojboj.csproj": {}
+    "C:\\Users\\Petr\\source\\repos\\BCSH2_Semestralni_prace_Silovy_trojboj\\Semestralni_prace-Silovy_trojboj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petr\\source\\repos\\Semestralni_prace-Silovy_trojboj\\Semestralni_prace-Silovy_trojboj.csproj": {
+    "C:\\Users\\Petr\\source\\repos\\BCSH2_Semestralni_prace_Silovy_trojboj\\Semestralni_prace-Silovy_trojboj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petr\\source\\repos\\Semestralni_prace-Silovy_trojboj\\Semestralni_prace-Silovy_trojboj.csproj",
+        "projectUniqueName": "C:\\Users\\Petr\\source\\repos\\BCSH2_Semestralni_prace_Silovy_trojboj\\Semestralni_prace-Silovy_trojboj.csproj",
         "projectName": "Semestralni_prace-Silovy_trojboj",
-        "projectPath": "C:\\Users\\Petr\\source\\repos\\Semestralni_prace-Silovy_trojboj\\Semestralni_prace-Silovy_trojboj.csproj",
+        "projectPath": "C:\\Users\\Petr\\source\\repos\\BCSH2_Semestralni_prace_Silovy_trojboj\\Semestralni_prace-Silovy_trojboj.csproj",
         "packagesPath": "C:\\Users\\Petr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petr\\source\\repos\\Semestralni_prace-Silovy_trojboj\\obj\\",
+        "outputPath": "C:\\Users\\Petr\\source\\repos\\BCSH2_Semestralni_prace_Silovy_trojboj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

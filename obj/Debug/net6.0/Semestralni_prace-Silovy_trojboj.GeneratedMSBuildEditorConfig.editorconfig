@@ -9,41 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Semestralni_prace_Silovy_trojboj
 build_property.RootNamespace = Semestralni_prace_Silovy_trojboj
-build_property.ProjectDir = C:\Users\Petr\source\repos\Semestralni_prace-Silovy_trojboj\
+build_property.ProjectDir = C:\Users\Petr\source\repos\BCSH2_Semestralni_prace_Silovy_trojboj\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Petr\source\repos\Semestralni_prace-Silovy_trojboj
+build_property.MSBuildProjectDirectory = C:\Users\Petr\source\repos\BCSH2_Semestralni_prace_Silovy_trojboj
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Petr/source/repos/Semestralni_prace-Silovy_trojboj/Views/Competitor/Index.cshtml]
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Competitor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Competitor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Competitor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Competitor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Petr/source/repos/Semestralni_prace-Silovy_trojboj/Views/Home/Index.cshtml]
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Petr/source/repos/Semestralni_prace-Silovy_trojboj/Views/Home/Privacy.cshtml]
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Petr/source/repos/Semestralni_prace-Silovy_trojboj/Views/Shared/Error.cshtml]
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Results/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Results/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Petr/source/repos/Semestralni_prace-Silovy_trojboj/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Petr/source/repos/Semestralni_prace-Silovy_trojboj/Views/_ViewImports.cshtml]
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Petr/source/repos/Semestralni_prace-Silovy_trojboj/Views/_ViewStart.cshtml]
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Petr/source/repos/Semestralni_prace-Silovy_trojboj/Views/Shared/_Layout.cshtml]
+[C:/Users/Petr/source/repos/BCSH2_Semestralni_prace_Silovy_trojboj/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kcinn3suop

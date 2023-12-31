@@ -1,0 +1,36 @@
+﻿@model Competitor
+
+<h1>Create Competitor</h1>
+
+<div>
+    <form asp-action="Create">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="CompetitorFirstName" class="control-label">First Name:</label>
+            <input asp-for="CompetitorFirstName" class="form-control" />
+            <span asp-validation-for="CompetitorFirstName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CompetitorLastName" class="control-label">Last Name:</label>
+            <input asp-for="CompetitorLastName" class="form-control" />
+            <span asp-validation-for="CompetitorLastName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Weight" class="control-label">Weight:</label>
+            <input asp-for="Weight" class="form-control" />
+            <span asp-validation-for="Weight" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CategoryId" class="control-label">Category:</label>
+            <select asp-for="CategoryId" asp-items="@ViewBag.Categories" class="form-control"></select>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Create" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
